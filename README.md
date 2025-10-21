@@ -54,18 +54,18 @@ The dataset is a public dataset (Davidson et al.) and contains the following col
 ## 📈 Results (Sample Output)
 
 **Logistic Regression:**
-Accuracy: 0.8492
-Class 0 (hate_speech) F1: 0.42, recall: 0.63
-Class 1 (offensive) F1: 0.90, recall: 0.85
-Class 2 (neither) F1: 0.84, recall: 0.94
+- Accuracy: 0.8492
+- Class 0 (hate_speech) F1: 0.42, recall: 0.63
+- Class 1 (offensive) F1: 0.90, recall: 0.85
+- Class 2 (neither) F1: 0.84, recall: 0.94
 
 **Support Vector Machine (SVM):**
-Accuracy: 0.8799
-Class 0 (hate_speech) F1: 0.41, recall: 0.44
-Class 1 (offensive) F1: 0.93, recall: 0.91
-Class 2 (neither) F1: 0.84, recall: 0.89
+- Accuracy: 0.8799
+- Class 0 (hate_speech) F1: 0.41, recall: 0.44
+- Class 1 (offensive) F1: 0.93, recall: 0.91
+- Class 2 (neither) F1: 0.84, recall: 0.89
 
 **Sample Predictions:**
-'I hate you' -> hate_speech
-'You're amazing!' -> neither
-'Go away, loser' -> neither
+- 'I hate you' -> hate_speech
+- 'You're amazing!' -> neither
+- 'Go away, loser' -> neither
